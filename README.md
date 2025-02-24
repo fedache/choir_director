@@ -1,5 +1,5 @@
 # choir_director
-CLI scripts to grind sbcs
+CLI scripts to grind EAFC sbcs
 
 [runweb.webm](https://github.com/user-attachments/assets/1c577962-e55c-4ebd-837f-895befdc0802)
 
